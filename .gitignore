@@ -1,0 +1,14 @@
+node_modules
+.cache/
+
+duckdb
+aos/process/libs
+
+l_duckdb/*.a
+l_duckdb/build
+
+**/*.so
+**/process.js
+**/process.wasm
+**/package-lock.json
+**/yarn.lock
